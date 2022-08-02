@@ -1,0 +1,6 @@
+com/testspring/demo2/student/StudentConfig.class
+com/testspring/demo2/Demo2Application.class
+com/testspring/demo2/student/StudentController.class
+com/testspring/demo2/student/StudentRepository.class
+com/testspring/demo2/student/StudentService.class
+com/testspring/demo2/student/Student.class
